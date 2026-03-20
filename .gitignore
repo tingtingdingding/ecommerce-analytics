@@ -1,0 +1,9 @@
+# Raw dataset (too large for GitHub)
+olist_*.csv
+product_category_name_translation.csv
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store

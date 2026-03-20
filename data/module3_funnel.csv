@@ -1,0 +1,2 @@
+total_orders,approved,shipped,delivered,canceled,approval_rate_pct,ship_rate_pct,delivery_rate_pct,cancel_rate_pct,avg_delivery_days,late_delivery_pct
+99441,99281,97658,96476,625,99.8,98.4,98.8,0.6,12.5,7.9
